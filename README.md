@@ -1,7 +1,7 @@
 👋 ## Olá, eu sou o Filipe!
 
-Sou um estudante de programação focado em **Front-End**.  
-Atualmente estou aprendendo **HTML, CSS e JavaScript**, criando projetos práticos para desenvolver minhas habilidades.
+<p>Sou um estudante de programação focado em **Front-End**.  
+Atualmente estou aprendendo **HTML, CSS e JavaScript**, criando projetos práticos para desenvolver minhas habilidades.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
