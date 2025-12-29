@@ -3,10 +3,6 @@
 <p>Sou um estudante de programação focado em <strong>Front-End.</strong>  
 Atualmente estou aprendendo <strong>HTML, CSS e JavaScript</strong>, criando projetos práticos para desenvolver minhas habilidades.</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeGPG1104&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeGPG1104&layout=compact&theme=radical)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
