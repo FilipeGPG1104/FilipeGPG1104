@@ -1,4 +1,4 @@
-👋 ## Olá, eu sou o Filipe!
+👋 <h1>Olá, eu sou o Filipe!</h1>
 
 <p>Sou um estudante de programação focado em **Front-End**.  
 Atualmente estou aprendendo **HTML, CSS e JavaScript**, criando projetos práticos para desenvolver minhas habilidades.</p>
