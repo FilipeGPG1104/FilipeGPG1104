@@ -4,7 +4,7 @@
 📚 Estudando HTML, CSS e JavaScript  
 
 
-div style="display: inline_block"
+<div style="display: inline_block">
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Filipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
