@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou o Filipe
 
-💻 Desenvolvedor **Front-End** iniciante  
-📚 Estudando **HTML, CSS e JavaScript**  
+💻 Desenvolvedor **Front-End** e **Back-End** 
 
 
 <div style="display: inline_block"><br>
