@@ -4,6 +4,15 @@
 
 Me chamo Filipe Gabriel Pereira Gomes, tenho 15 anos e sou natural do São Paulo. Estou cursando o ensino médio na Etec, com o curso técnico de Desenvolvimento de Sistemas.
 
+## 📞 Contatos
+
+<div>
+  <a href="https://www.instagram.com/filipe_0411/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielfilipe1104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
