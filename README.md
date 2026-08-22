@@ -79,6 +79,13 @@ Me chamo Filipe Gabriel Pereira Gomes, tenho 15 anos e sou natural do São Paulo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+  align="center"
+  alt="Filipe-Csharp" 
+  height="30"
+  width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+/>
 
 <br/>
 <br/>
