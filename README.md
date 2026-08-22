@@ -94,7 +94,7 @@ Me chamo Filipe Gabriel Pereira Gomes, tenho 15 anos e sou natural do São Paulo
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Estatiscas do Github do Filipe" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api?username=FilipeGPG1104&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark" 
