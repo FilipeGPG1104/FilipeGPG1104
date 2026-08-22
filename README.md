@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Filipe Gabriel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Frontend e Backend`**
 
 Me chamo Filipe Gabriel Pereira Gomes, tenho 15 anos e sou natural do São Paulo. Estou cursando o ensino médio na Etec, com o curso técnico de Desenvolvimento de Sistemas.
 
