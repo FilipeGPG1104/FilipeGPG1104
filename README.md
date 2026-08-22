@@ -93,3 +93,5 @@ Me chamo Filipe Gabriel Pereira Gomes, tenho 15 anos e sou natural do São Paulo
 ### 📊 Estatísticas
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FilipeGPG1104&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=FilipeGPG1104&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=FilipeGPG1104&layout=compact&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=FilipeGPG1104&layout=compact&langs_count=4&theme=chartreuse-dark)
