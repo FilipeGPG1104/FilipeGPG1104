@@ -92,4 +92,4 @@ Me chamo Filipe Gabriel Pereira Gomes, tenho 15 anos e sou natural do São Paulo
 
 ### 📊 Estatísticas
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?FilipeGPG1104=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FilipeGPG1104&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=FilipeGPG1104&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=shadow_green)
