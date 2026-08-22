@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Filipe Gabriel
+# 👨🏻‍💻 Filipe Gabriel
 
 **`Desenvolvedora FullStack`**
 
