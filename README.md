@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Filipe Gabriel Pereira Gomes, tenho 15 anos e sou natural do São Paulo. Estou cursando o ensino médio na Etec, com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Filipe Gabriel Pereira Gomes, tenho 15 anos e sou natural do São Paulo. Estou cursando o ensino médio na Etec, com o curso técnico de Desenvolvimento de Sistemas.
 
 ### 🤖 Linguagens e Tecnologias
 
